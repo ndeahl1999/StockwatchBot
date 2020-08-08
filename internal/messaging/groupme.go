@@ -8,7 +8,6 @@ import (
 	"os"
 
 	config "github.com/ndeahl1999/StockwatchBot/internal/config"
-
 	message "github.com/ndeahl1999/StockwatchBot/internal/models"
 )
 
