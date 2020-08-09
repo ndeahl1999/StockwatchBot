@@ -4,3 +4,10 @@ Below are a list of required environment variables to be able to successfully ru
 
 DEPLOY_PORT -> Port to run the project on (for development, would be http://localhost:DEPLOY_PORT)
 GROUPME_BOT_ID -> Used to send messages to Groupme Chat 
+
+
+SQL_DB_USERNAME
+SQL_DB_PASSWORD
+SQL_DB_HOSTNAME --> SQL CONNECTION INFORMATION
+SQL_DB_PORT
+SQL_DB_NAME
